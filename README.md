@@ -19,4 +19,4 @@ building is easy now with claude code. getting people to see it is the hard part
 
 also into markets and the gym (not jacked yet)
 
-[x](https://x.com/bsteps_) · [linkedin](https://www.linkedin.com/in/nishant-tadvi/) · [sponsor.st](https://sponsor.st)
+[x](https://x.com/bsteps_) · [linkedin](https://www.linkedin.com/in/bsteps/) · [sponsor.st](https://sponsor.st)
