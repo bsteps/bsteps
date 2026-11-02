@@ -11,6 +11,8 @@ product engineer in india. quit my job in 2022 to build my own stuff, nothing wo
 
 **experiments**
 - [Thread Art](https://thread-art-three.vercel.app): turns a portrait into a string art pattern, in your browser
+- [Tuck](https://tuckhq.com): AI that files your documents into Google Drive. 1 paying customer, still live on a free plan
+- execution.lol: a public death row for websites. axed before going live
 
 building is easy now with claude code. getting people to see it is the hard part
 
