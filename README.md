@@ -1,26 +1,21 @@
-### Hey, <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px">
+### Nishant
 
-- 🔭 I’m currently grinding to make saas work
-- 🌱 I’m currently learning [Rust](https://www.rust-lang.org/)
-- 💬 Ask me about laravel, react, flutter, rust
-- 📫 How to reach me: [Telegram](https://t.me/bsteps)
+product engineer in India. quit my job in 2022 to build my own stuff, nothing worked, went back. now building [sponsor.st](https://sponsor.st) on the side.
 
-<img src="https://yc-stats.vercel.app/api?username=bsteps&show_icons=true&count_private=true&border_radius=12&title_color=58a6ff&bg_color=161b22&show_owner=true&text_color=c9d1d9&icon_color=58a6ff&hide_border=false" alt="Nishant's GitHub stats" />
+**building**
+- [sponsor.st](https://sponsor.st): sell sponsor spots on your own site. 10 signups, $0 so far
 
-![Nishant's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bsteps&hide_border=true&background=161b22&ring=27d545&fire=27d545&currStreakLabel=27d545&currStreakNum=f0f6fc&sideLabels=c9d1d9&dates=8b949e&sideNums=f0f6fc&stroke=30363d)
+**open source**
+- [flutter_photon_rs](https://github.com/bsteps/flutter_photon_rs): Dart bindings for the Photon image library in Rust (15 likes on pub.dev)
+- [zerodha-fno-trade-journal](https://github.com/bsteps/zerodha-fno-trade-journal): turns Zerodha F&O exports into a trading journal ([live](https://zerodha-fno-trade-journal.vercel.app))
 
-<details>
- <summary><b>Most Used Languages</b></summary><br/>
- <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsteps&show_icons=true&count_private=true&layout=compact&border_radius=12&title_color=58a6ff&bg_color=161b22&show_owner=true&text_color=c9d1d9&icon_color=58a6ff&hide_border=true" />
-</details>
+**experiments**
+- [Thread Art](https://thread-art-three.vercel.app): turns a portrait into a string art pattern, in your browser
 
-<details>
- <summary><b>Currently Working on</b></summary><br/>
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=bsteps&repo=co-helper&show_icons=true&count_private=true&border_radius=12&title_color=58a6ff&bg_color=161b22&text_color=c9d1d9&icon_color=58a6ff&hide_border=true" alt="Nishant is currently working on saas" />
-</details>
+**stopped**
+- [Tuck](https://tuckhq.com): AI that files your documents into Google Drive. 15 signups, 1 paying customer. still live, free plan
+- execution.lol: a public death row for websites. axed before going live
 
-<p>
- <img src="https://komarev.com/ghpvc/?username=bsteps" />
- <img src="https://badges.pufler.dev/repos/bsteps?&logo=github&logoColor=white" />
- <img src="https://badges.pufler.dev/commits/monthly/bsteps?&logo=github&logoColor=white" />
-</p>
+also into markets and the gym (not jacked yet)
+
+say hi on [X](https://x.com/bsteps_)
