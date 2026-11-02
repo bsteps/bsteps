@@ -8,6 +8,7 @@ product engineer in india. quit my job in 2022 to build my own stuff, nothing wo
 **open source**
 - [flutter_photon_rs](https://github.com/bsteps/flutter_photon_rs): Dart bindings for the Photon image library in Rust (15 likes on pub.dev)
 - [zerodha-fno-trade-journal](https://github.com/bsteps/zerodha-fno-trade-journal): turns Zerodha F&O exports into a trading journal ([live](https://zerodha-fno-trade-journal.vercel.app))
+- [co-helper](https://github.com/bsteps/co-helper): covid vaccine slot alerts by pincode and district, plus tiffin services in Vadodara (2021)
 
 **experiments**
 - [Thread Art](https://thread-art-three.vercel.app): turns a portrait into a string art pattern, in your browser
